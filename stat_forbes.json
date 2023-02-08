@@ -805,7 +805,7 @@
  {"backgroundColor": ["#232932","#596DF6"],
   "data1_labels": ["В России", "За рубежом"],
   "data1_values": [100,0],
-  "data2_labels": [""Россия"],
+  "data2_labels": ["Россия"],
   "data2_values": [0],
   "name": "Magenta Technology"},
  {"backgroundColor": ["#65B891","#232932"],
